@@ -1,2 +1,3 @@
-Name
-Course
+Name : G.VAarshini
+Course : Bas (computer science)
+I Learned how to create and update the file in GitHub
